@@ -1,0 +1,50 @@
+body{
+	background: #ccffcc;
+}
+
+.geekgurus{
+	width: 93%;
+	height: 575px;
+	margin: 0px 0px 0px 40px;
+	background-image: url(geek-bg.png);
+	background-repeat: no-repeat;
+	background-size: 92%;
+	opacity: 0.2;
+}
+
+.geek-menu{
+	width: 10%;
+	height: 10px;
+	margin-left: 85%;
+	margin-top: -73px;
+}
+
+geekform{
+	width: 38%;
+	height: 335px;
+	top: 240px;
+	margin-left: 283px;
+	text-align: center;
+	background: #009933;
+	color: #fff;
+	position: absolute;
+}
+
+input{
+	width: 80%;
+	height: 25px;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #fff;
+	background: #009933;
+	color: #fff;
+}
+
+.geekgurus-invoice{
+	width: 80%;
+	height: 40px;
+	background: #fff;
+	color: #009933;
+	border: none;
+	cursor: pointer;
+}
